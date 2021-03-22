@@ -1,0 +1,238 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background:#b38f00; 
+	border:2px solid black;
+	line-height: 1.8;
+	margin: 0 auto 0 auto;
+}
+  h1{
+ 	color: #556b2f;
+ 	font-family: cursive;
+ 	text-align:center;
+ 	padding-right: 10px;
+ 	justify-content: center;
+ 	padding-top: 40px;
+ 	padding-left: 5em;
+ 	margin-left: 1em;
+ }
+
+ .img1{
+ 	             width: 9em;
+			      height: 9em;
+			      border: 1px solid white;
+			      border-radius:25%;
+			      margin-top:-4.5em;
+			      margin-left: 1em;
+			      padding-left: 20px;
+ }
+ h4{
+ 	margin: 1em;
+ 	line-height: 1.5em;
+ 	text-align: center;
+ 	color: #000000;
+ 	word-spacing: 1px;
+ }
+
+  h6{
+ 	margin: 1em;
+ 	line-height: 1.5em;
+ 	text-align:2px; ;
+ 	color: #000000;
+    font-size: 1em;
+    text-align: justify;
+
+ }
+
+
+ .n1{
+	margin-top:  2em;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	margin-left: 1em;
+	padding:1em;
+	color: #000000;
+	border:2px solid black;
+	font-family: sans-serif;
+	text-align: justify;
+	 
+}
+
+
+
+.y1{
+  
+   display: flex;
+   margin-bottom: 1em;
+  
+
+}
+
+.h11{
+
+
+width: 120px;
+height: 120px;
+flex-direction: row;
+margin-left: 1em;
+place-content:space-between;
+
+
+
+}
+.w1
+{
+  
+   margin: 2em;
+  font-size: 1em;
+  word-spacing: 1px;
+  margin-top: 2em;
+  text-align: justify;
+  line-height: 2;
+
+}
+
+.c1{
+
+	margin-top: 2em;
+}
+
+.w2{
+
+	 margin-top: 2.4em;
+	 margin-left: 2em;
+	 margin-right: 1em;
+	 text-align: justify;
+
+}
+   
+    li{
+	      	
+	      	 padding-right: 30px;
+	      	 padding-top: 10px;
+	         padding-bottom: 7px;
+	         
+	      	 width :70%;
+	      	 margin:0 auto 2em auto;
+	      	 text-align: justify;
+	      
+	      	}
+
+
+.last{
+	margin: 1em;
+	margin-bottom: .8em;
+	text-align: justify;
+	word-spacing: 1px;
+}
+
+
+.im0{
+
+    width: 170px;
+}
+.im9{
+	width: 150px;
+}
+
+
+
+.p1{
+  
+  margin: 1em;
+  word-spacing: 1px;
+  text-align: justify;
+
+}
+
+.i2{
+
+	display: flex;
+	
+	margin-top: 10px;
+}
+
+.fp1{
+
+     border: 2px solid black;
+  	padding: 10px;
+  	border-radius: 20px;
+  	background:#744332 ;
+  	color: black;
+    margin-left: 7em;
+    margin-top:5em;
+    text-decoration: none;
+
+          
+}
+
+.h111{
+
+   width: 110px;
+   margin-bottom: 2em;
+   margin-left: em;
+
+
+}
+
+.pdb{
+
+	display: flex;
+
+
+}
+
+@media only screen and (min-width:780px){
+
+   h1{
+
+      margin-left: -17em;
+
+   }
+
+   h4{
+
+   	width: 40%
+   	
+   }
+   h6{
+
+   	width: 40%
+   }
+   
+   .h11{
+       
+       width: 300px;
+
+
+   }
+   
+   .w1{
+     
+      width: 40%;
+
+   }
+
+   .w2{
+
+   	  margin-left: 1em;
+   	  margin-right: 15em;
+
+   }
+
+   li{
+
+   	margin-left: 3em;
+   }
+
+   .last{
+        
+
+       width: 50%;
+
+   }
+
+}
